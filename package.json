@@ -1,0 +1,21 @@
+{
+  "name": "scrapper-borme",
+  "version": "1.0.0",
+  "description": "Scrapper for BORME",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "pdfs": "node app/pdf.js"
+  },
+  "type": "module",
+  "author": "Aljandro Zuriguel",
+  "license": "ISC",
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^5.1.91"
+  }
+}

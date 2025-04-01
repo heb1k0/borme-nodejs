@@ -1,0 +1,32 @@
+# Nodemodules# Node modules
+node_modules/
+pdfs/
+
+# Archivos de salida
+empresas.json
+*.csv
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+*.swo
+
+# Carpetas del sistema operativo
+.DS_Store
+Thumbs.db
+
+# EditorConfig / IDEs
+.vscode/
+.idea/
+
+# Archivos de prueba
+pdfs/**/*.txt
+pdfs/**/*.json
+
+# Archivos ejecutables o binarios
+*.exe
+*.out
+
+# Opcional: ignora todos los PDFs si quieres mantener la carpeta vacía en Git
+# pdfs/**/*.pdf

@@ -78,4 +78,4 @@ empresas.json
 
 📝 Licencia
 
-MIT © 2025 - Tu nombre o usuario GitHub
+MIT © 2025 - heb1k0
